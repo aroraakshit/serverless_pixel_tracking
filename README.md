@@ -6,9 +6,11 @@ Based on: [Google Tutorial](https://cloud.google.com/solutions/serverless-pixel-
 ---
 
 Misc:
-- Exporting StackDriver Logs in the API [link](https://cloud.google.com/logging/docs/api/tasks/exporting-logs)
-- Advanced Log Filters [link](https://cloud.google.com/logging/docs/view/advanced-filters)
+- Exporting StackDriver Logs in the API [[link](https://cloud.google.com/logging/docs/api/tasks/exporting-logs)]
+- Advanced Log Filters [[link](https://cloud.google.com/logging/docs/view/advanced-filters)]
 - Example website credits: [Xiaoying Riley](https://themes.3rdwavemedia.com/)
 - User Defined functions in Legacy SQL [[link](https://cloud.google.com/bigquery/user-defined-functions#adding-the-udf)]
-- BigQuert Schema of Exported Logs [[link](https://cloud.google.com/logging/docs/export/bigquery)]
+- BigQuert Schema of Exported Logs (Log Entry) [[link](https://cloud.google.com/logging/docs/export/bigquery)]
 - LogEntry object in StackDriver [[link](https://cloud.google.com/logging/docs/reference/v2/rest/v2/LogEntry)]
+- Adding BigQuery as data source to Data Studio [[link](https://support.google.com/datastudio/answer/6370296?hl=en)]
+- Visualizing BigQuery data using Data Studio [[link](https://cloud.google.com/bigquery/docs/visualize-data-studio)]
